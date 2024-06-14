@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Hey there! I'm a Junior at Morgan State University, diving deep into the world of Computer Science.<br>🤖 I'm all about Machine Learning and Software Engineering - they're my jam!<br>⚛️ Right now, you'll find me tinkering with generative AI and whipping up cool stuff with React.<br>🛠️ Python is my go-to language<br>🎸 Oh, and when I'm not coding, you might catch me strumming some tunes on my guitar. 
+💻 Hey there! I'm a Senior at Morgan State University, diving deep into the world of Computer Science.<br>🤖 I'm all about Machine Learning and Software Engineering!<br>⚛️ Right now, you'll find me tinkering with generative AI and whipping up cool stuff with React.<br>🛠️ Python is my go-to language<br>🎸 Oh, and when I'm not coding, you might catch me strumming some tunes on my guitar. 
 
 
 ## 🌐 Socials:
