@@ -13,7 +13,7 @@
 I build full-stack web apps, mobile tools and AI systems — and I care about the part after the demo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-121210?style=for-the-badge&logo=linkedin&logoColor=c9f53e)](https://www.linkedin.com/in/lennythecreator)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121210?style=for-the-badge&logo=googlechrome&logoColor=c9f53e)](https://github.com/lennythecreator/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121210?style=for-the-badge&logo=googlechrome&logoColor=c9f53e)](https://lennys-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-121210?style=for-the-badge&logo=gmail&logoColor=c9f53e)](mailto:lenyeuwaeme@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-121210?style=for-the-badge&logo=github&logoColor=c9f53e)](https://github.com/lennythecreator)
 
@@ -116,7 +116,7 @@ I care about the unglamorous half of the work — data that holds up, interfaces
 
 **Email** · [lenyeuwaeme@gmail.com](mailto:lenyeuwaeme@gmail.com) <br />
 **LinkedIn** · [linkedin.com/in/lennythecreator](https://www.linkedin.com/in/lennythecreator) <br />
-**Portfolio** · [github.com/lennythecreator/Portfolio](https://github.com/lennythecreator/Portfolio)
+**Portfolio** · [lennys-portfolio.vercel.app](https://lennys-portfolio.vercel.app)
 
 <div align="center">
 <br />
