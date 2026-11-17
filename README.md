@@ -85,15 +85,7 @@ I build full-stack web apps, mobile tools and AI systems — and I care about th
 
 ---
 
-## `05` · How I work
-
-- **Ship past the demo.** Clean data pipelines, honest error states and a handover document the next developer can actually use.
-- **Accessibility is not a phase.** WCAG work at the Cognitive and Neurodiversity Lab shaped how I build every interface since.
-- **Ground the model.** Retrieval over real departmental and client data beats a confident guess, every time.
-
----
-
-## `06` · Numbers
+## `05` · Numbers
 
 <div align="center">
 
@@ -106,7 +98,7 @@ I build full-stack web apps, mobile tools and AI systems — and I care about th
 
 ---
 
-## `07` · Off the clock
+## `06` · Off the clock
 
 I play guitar badly, draw slightly better, and will happily talk about accessibility for longer than you asked. When a bug won't move, I go look at buildings — structure, light and repetition.
 
@@ -123,7 +115,7 @@ I care about the unglamorous half of the work — data that holds up, interfaces
 
 ---
 
-## `08` · Say hello
+## `07` · Say hello
 
 **Email** · [lenyeuwaeme@gmail.com](mailto:lenyeuwaeme@gmail.com) <br />
 **LinkedIn** · [linkedin.com/in/lennythecreator](https://www.linkedin.com/in/lennythecreator) <br />
